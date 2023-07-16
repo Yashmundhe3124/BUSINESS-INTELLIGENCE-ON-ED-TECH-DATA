@@ -1,1 +1,2 @@
 # BUSINESS-INTELLIGENCE-ON-ED-TECH-DATA
+This project leverages data analytics and visualization tools to extract valuable insights from educational technology data. Analyzing user behavior, learning patterns, and performance metrics, it empowers educational institutions to make data-driven decisions, optimize learning experiences, and enhance student outcomes. Available on GitHub for collaboration and further development.
